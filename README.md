@@ -3,3 +3,7 @@
 ## System Requirements
 
 * Docker or OrbStack
+
+## Installation
+
+1. `docker buildx build -t zacky1972/devenv_rzv2l:latest .`
